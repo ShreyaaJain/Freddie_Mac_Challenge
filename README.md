@@ -13,7 +13,7 @@
   
   - To run part2 alone execute the command mentioned in next line by entering username,password and Quarter Name for which interest rate has to be predicted
   - docker run sumedh11/midtermads4:latest username password Quartername
-    To get data for 3rd quarter of 2007.Quartername will be Q32007 and the corresponding next quarter data will be test data.
+  - To get data for 3rd quarter of 2007.Quartername will be Q32007 and the corresponding next quarter data will be test data.
     
     
 
