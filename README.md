@@ -7,7 +7,7 @@
   - docker pull sumedh11/midtermads4:latest
 - Image can be run in three different ways.
   - To run part1 alone execute following command by entering username and password,image will login into Freddiemac website,using the cookies and scrape the data
-  - docker run sumedh11/midtermads4:latest username password
+   - docker run sumedh11/midtermads4:latest username password
   
   - To run part2 alone execute following command by entering username,password and Quarter Name for which interest rate has to be predicted
   - docker run sumedh11/midtermads4:latest username password Quartername
