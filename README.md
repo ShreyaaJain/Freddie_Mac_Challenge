@@ -3,10 +3,10 @@
 ### Part2 has Prediction and Classification alogorithms to predict an interest rate of a mortgage, and to classify a whether a loan is delinquent or not 
 ### Instruction to pull and Run the Image:
 
-- To get the images in the local execute: 
+- To get the images in the local execute
    - docker pull sumedh11/midtermads4:latest
 -Image can be run in three different ways.
-  -- To run part1 alone execute following command by entering username and password,image will login into Freddiemac website,using the cookies and scrape the data
+  - To run part1 alone execute following command by entering username and password,image will login into Freddiemac website,using the cookies and scrape the data
   - docker run sumedh11/midtermads4:latest username password
   
   - To run part2 alone execute following command by entering username,password and Quarter Name for which interest rate has to be predicted
