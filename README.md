@@ -1,7 +1,7 @@
 # Freddie_Mac_Challenge
-# Part1 deals with Exploratory Data Analysis and scraping data  from Freddiemac website
-# Part2 has Prediction and Classification alogorithms to predict an interest rate of a mortgage, and to classify a whether a loan is delinquent or not 
-# Instruction to pull and Run the Image:
+### Part1 deals with Exploratory Data Analysis and scraping data  from Freddiemac website
+### Part2 has Prediction and Classification alogorithms to predict an interest rate of a mortgage, and to classify a whether a loan is delinquent or not 
+### Instruction to pull and Run the Image:
 
 - To get the images in the local execute: 
    - docker pull sumedh11/midtermads4:latest
